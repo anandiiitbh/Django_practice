@@ -1,7 +1,7 @@
 # Django_practice
 [![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-1.11.23-brightgreen.svg)](https://djangoproject.com)
-
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-3.11.2-green.svg)](https://djangoproject.com)
 
 ### Week 1
 - Module 1  
