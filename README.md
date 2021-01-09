@@ -9,4 +9,7 @@
   2.[Django DRF Intro.](https://github.com/vymana/Anand_Kr/tree/master/Module%201%20:%20DRF%20Intro/tutorial)
 
 - Module 2  
-  1.[Django Rest Framework (DRF)](https://github.com/vymana/Anand_Kr/tree/master/Module2%20:%20Django%20Rest%20Framework%20(DRF)/tutorial)  
+  1.[Django Rest Framework (DRF)](https://github.com/vymana/Anand_Kr/tree/master/Module2%20:%20Django%20Rest%20Framework%20(DRF)/tutorial)
+  
+- Module 3  
+  1.[DRF + Client)](https://github.com/vymana/Anand_Kr/tree/master/Module%203%20:%20DRF%20%2B%20Client/mysite)  
