@@ -2,37 +2,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-1.11.23-brightgreen.svg)](https://djangoproject.com)
 
-## Prerequisite
-- Python3 and pip3 `apt-get install python3`
-- Virtual Environment `pip3 install virtualenv`
 
-## Steps to deploy to your local machine
-- create a project Directory let say `Project`
-- Download and Extract this repo and move `myproject` to `Project` Directory.
-- Open `Project` Directory in Terminal and execute 
-```Shell
-virtualenv venv -p python3
-```
-- Activate Virtual Environment 
-```Shell
-source venv/bin/activate
-```
-- Install Django 
-```Python
-pip install django
-```
-- To start Project exec. 
-```Python
-django-admin startproject myproject
-```
-- Open myproject `cd myproject` .
-- For setting up Database 
-```Python
-Python manage.py makemigrations
-Python manage.py migrate
-```      
-- Run server 
-```Python
-python manage.py runserver
-```
-- look to `https://localhost:8000`
+### Week 1
+- Module 1  
+  1.[Django Introduction](https://github.com/vymana/Anand_Kr/tree/master/Module%201%20:%20Django/myproject)  
+  2.[Django DRF Intro.](https://github.com/vymana/Anand_Kr/tree/master/Module%201%20:%20DRF%20Intro/tutorial)
+
+- Module 2  
+  1.[Django Rest Framework (DRF)](https://github.com/vymana/Anand_Kr/tree/master/Module2%20:%20Django%20Rest%20Framework%20(DRF)/tutorial)  
