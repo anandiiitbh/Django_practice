@@ -13,3 +13,5 @@
   
 - Module 3  
   1.[DRF + Client)](https://github.com/vymana/Anand_Kr/tree/master/Module%203%20:%20DRF%20%2B%20Client/mysite)  
+
+- [React+Django App : Student Data Management](https://github.com/vymana/Anand_Kr/tree/master/React%2BDjango%20App%20:%20Student%20Data%20Management)
