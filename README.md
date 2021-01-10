@@ -2,6 +2,8 @@
 [![Python Version](https://img.shields.io/badge/python-3.8.5-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.1.5-brightgreen.svg)](https://djangoproject.com)
 [![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-3.12.2-green.svg)](https://djangoproject.com)
+[![React](https://img.shields.io/badge/React-17.0.1-brightgreen.svg)](https://djangoproject.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-green.svg)](https://djangoproject.com)
 
 ### Week 1
 - Module 1  
