@@ -1,0 +1,4 @@
+datrie
+django
+djangorestframework
+pandas
