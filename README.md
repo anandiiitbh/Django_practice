@@ -5,6 +5,7 @@
 [![React](https://img.shields.io/badge/React-17.0.1-brightgreen.svg)](https://djangoproject.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-green.svg)](https://djangoproject.com)
 
+
 ### Week 1
 - Module 1  
   1.[Django Introduction](https://github.com/vymana/Anand_Kr/tree/master/Module%201%20:%20Django/myproject)  
