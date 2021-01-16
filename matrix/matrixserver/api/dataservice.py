@@ -58,7 +58,7 @@ def city_data(city, state, category):
 
     if category in county_categories:
         county = data_cache["city_data"].get((city, state))["county"]
-        return county_data(county, state, category)
+        return county_data(city, state, category)
 
     data_key = "city_" + category + "_data"
     return data_cache[data_key].get((city, state), None)
